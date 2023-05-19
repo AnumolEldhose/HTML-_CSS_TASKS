@@ -1,0 +1,132 @@
+<html
+			
+		    <head>
+			<style>
+			body
+			{
+			color:white;
+			margin:0px;
+			}
+			.header
+			{
+			
+			margin:0px;
+			width=100%;
+			height:100px;
+			background-color:white;
+			color:blue;
+			text-align:center;
+			padding:0px;
+			padding-top: 48px;
+			}
+			.regstyle
+			{
+			font-weight:bold;
+			color:black;
+			padding-top:68px:
+			text-align:centre;
+			
+			}
+			.h1style
+			{
+			text-align:center;
+			color:black;
+			font-size:20px;
+			bont-weight:none;
+			
+			
+			}
+			.containerbody
+		
+			{
+			display:flex;
+			color:black;
+			flex-direction:row;
+			padding-top:15px;
+			padding-right:10px;
+			font-weight:bold;
+			
+			}
+			.registerstyle
+			{
+			
+			padding-top:1px;
+			padding-left:8%;
+	
+			background-color:white;
+			width:250px;
+			height:280px;
+			margin-left:450px;
+			text-align:left;
+			
+			}
+			.style
+			{
+			border-radius:5px;
+			align:center;
+			height:30px;
+			width:275;
+			background-color:grey;
+			border:1px solid white;
+			padding-right:50px;
+			
+			
+			
+			}
+			.style1
+			{
+			width:250px;
+			height:200px;
+			background-color:white;
+			margin-left:561px;	
+            color:black;			}
+			</style>
+		
+		    </head>
+			
+<body>
+		
+		
+	<div class="header">
+			
+			<a href="https://www.google.com/">google</a>
+			<a href="https://www.facebook.com/">facebook</a>
+			<a href="http://www.apple.com/">apple</a>
+			
+			<h1 class="regstyle">Register</h1>
+	</div>
+			<h1 class="h1style">Kindly fill in this form to register</h1>
+	<div class="registerstyle">
+		<div class="containerbody">
+			<form action=" ">
+				<div >
+					username
+					<input class="style"type="text"/>
+				</div>
+				<div>
+					Email
+					<input class="style" type="text"/>
+				</div>
+				<div>
+					Password
+					<input class="style" type="text"/>
+				
+				</div>
+				<div>
+					repeat the password
+					<input class="style" type="text"/>
+				</div>
+				<div>
+					<input style="background-color:blue;border-radius:5px;height:30px;width:275px;" type="button" value="register"/>
+				</div>
+		</div>	
+	</div>
+				
+				<div class="style1">
+					Already have an account?
+					<a href="https://www.facebook.com/">log in</a>
+					<h1 style="color:black;font-size:15px;font-weight:none;">@copyright 2023</h1>
+				</div>
+	</body>
+	</html>
+			
